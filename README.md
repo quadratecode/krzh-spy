@@ -8,7 +8,7 @@ This code base is in early development. It is *not production ready*.
 
 A weekly output is displayed here: https://www.zhlaw.ch/
 
-All data taken from [Opendata](https://opendata.swiss/en/dataset/web-service-des-geschaftsverwaltungssystems-des-kantonsrates-des-kantons-zurich)
+All data taken from [the KRZH-API at opendata.swiss.](https://opendata.swiss/en/dataset/web-service-des-geschaftsverwaltungssystems-des-kantonsrates-des-kantons-zurich)
 
 A license will be added at a later date.
 
