@@ -1,6 +1,6 @@
 # About
 
-This Python script monitors with ongoing developments in the Kantonsrat ZH with regards to legal revisions.
+This Python script monitors ongoing developments in the Kantonsrat ZH with regards to legal revisions.
 
 It filters all KRZH-affairs and the weekly dispatch according to a variety of keywords and criteria through the KRZH-API at [opendata.swiss](https://opendata.swiss/de). Furthermore, it scrapes the PDFs of the weekly dispatch for changes in laws and is able to differentiate between the main law ("Haupterlass") and any secondary laws ("Nebenerlasse"). The output is rendered as static HTML. Accuracy is satisfactory but not perfect.
 
