@@ -169,8 +169,9 @@ def krzh_dispatch():
             }
             krversand_data.append(krversand_dict)
 
-        # Append the new data to the existing data
-        existing_data.extend(krversand_data)
+        # Prepend the new data to the existing data
+        for item in reversed(krversand_data):
+            existing_data.insert(0, item)
         with open("krzh_dispatch_data.json", "w", encoding="utf-8") as f:
             json.dump(existing_data, f, indent=4, ensure_ascii=False)
 
