@@ -1,3 +1,7 @@
+# IMPORTANT
+
+This repository was deprecated on 2024-05-01 in favor of [this one](https://github.com/quadratecode/zhlaw) and subsequently archived.
+
 # About
 
 This Python script monitors ongoing developments in the Kantonsrat ZH with regards to legal revisions.
